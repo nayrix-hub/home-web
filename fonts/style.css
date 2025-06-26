@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Revive 80';
+    src: local('Revive 80 Phatt'), local('Revive-80-Phatt'),
+        url('Revive80Phatt.woff2') format('woff2'),
+        url('Revive80Phatt.woff') format('woff'),
+        url('Revive80Phatt.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
